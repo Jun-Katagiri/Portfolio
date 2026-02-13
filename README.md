@@ -1,4 +1,4 @@
-# Portfolio: thin-shade (Technical Details)
+# Portfolio: 3D Action Horror (Technical Details)
 
 [日本語](#japanese) | [English](#english)
 
